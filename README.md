@@ -1,2 +1,2 @@
 # gorrotinhas
-Aprendendo a usar gorrotinhas
+Aprendendo a usar GoLang
